@@ -33,7 +33,9 @@ The dataset contains state-wise and city-wise pollution levels with the followin
 1. Average Pollution Levels by State
 Delhi records the highest average pollution level, followed by Haryana and Uttar Pradesh. States such as Odisha and Punjab show comparatively lower pollution levels.
 
-![State Analysis](screenshots/state_analysis.png)
+<p align="center">
+  <img src="screenshots/state_analysis.png" width="900"/>
+</p>
 
 3. Average Pollution Levels by City
 Cities such as Noida, Delhi, Ghaziabad, and Greater Noida exhibit high pollution levels. Urban congestion and industrial activity are major contributors.
