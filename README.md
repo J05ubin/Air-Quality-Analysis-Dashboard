@@ -5,6 +5,9 @@ This project presents an interactive Air Quality Analysis Dashboard developed us
 
 Air pollution is one of the most critical environmental and public health challenges in India. Rapid urbanization, industrial growth, vehicular emissions, and construction activities have significantly deteriorated air quality across major regions. This dashboard provides insights that can assist policymakers, researchers, and environmental agencies in monitoring pollution trends and planning mitigation strategies.
 
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
 # Dataset Information
 The dataset contains state-wise and city-wise pollution levels with the following attributes:
 - State
