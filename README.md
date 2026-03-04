@@ -69,4 +69,3 @@ This reflects a moderately high pollution level overall.
 - Cross-filtering between visuals
 - Interactive and user-friendly layout
 - Clear visual hierarchy for easy interpretation
-
